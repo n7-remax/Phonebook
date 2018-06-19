@@ -1,0 +1,1 @@
+web: java -jar target/phonebook-1.0.jar

@@ -16,7 +16,7 @@ Then use maven to build project
 
 ```
 mvn clean install
-java -jar phonebook-1.0.jar
+java -jar target/phonebook-1.0.jar
 
 ```
 After that you can acces project through http://localhost:5000/

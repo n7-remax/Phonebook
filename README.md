@@ -21,7 +21,7 @@ Launch it
 ```
 java -jar target/phonebook-1.0.jar
 ```
-After that you can acces project through http://localhost:5000/
+After that you can access project through http://localhost:5000/
 ## Built With
 * [Thymeleaf](https://www.thymeleaf.org/)
 * [Maven](https://maven.apache.org/)

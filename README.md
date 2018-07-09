@@ -6,18 +6,20 @@ First of all clone the project
 ```
 git clone https://github.com/R3MH4X0R/Phonebook.git
 ```
-Then to run it you will need to set your database url in application.properties file
+To run it you will need to set your database url in application.properties file
 ```
 spring.datasource.url=jdbc:
 spring.datasource.username = root
 spring.datasource.password = root
 ```
-Then use maven to build project
+Use maven to build project
 
 ```
 mvn clean install
+```
+Launch it
+```
 java -jar target/phonebook-1.0.jar
-
 ```
 After that you can acces project through http://localhost:5000/
 ## Built With

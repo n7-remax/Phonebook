@@ -4,7 +4,7 @@ This is phonebook aplication with standard CRUD operations
 ## Install
 First of all clone the project
 ```
-git clone https://github.com/R3MH4X0R/Phonebook.git
+git clone https://github.com/n7-remax/Phonebook.git
 ```
 To run it you will need to set your database url in application.properties file
 ```
